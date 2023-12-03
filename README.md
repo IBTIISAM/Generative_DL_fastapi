@@ -1,2 +1,1 @@
-# Generative_DL_fastapi
-# Generative_DL_fastapi
+# Generative_Deep_Learning_2nd_Edition
